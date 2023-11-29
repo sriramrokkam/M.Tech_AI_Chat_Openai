@@ -1,0 +1,118 @@
+Question / Qus :    How many content owners are part of the SPC Program in 2021 already....
+Answer /ans:    In order to know how many content owners are part of the SPC Program, please reach out to the program manager
+Line of Business / Lob :    Project Management
+End to End Solution:    Project Management
+Solution Capability / business Process:    Tools
+Keywords:    PM;SPC;Test
+Release:    All
+version:    8
+Landscape:    All
+
+
+Question / Qus :    Is there sufficient capacity on the market to manage all aspects of the transformation to S/4HANA?
+Answer /ans:    Safeguarding by SAP can be provided at any level needed. SAP supports you in selecting the right delivery engagement model to drive a successful deployment of SAP S/4HANA for your business. Where SAP-led or partner-led, SAP services and accelerators are available to help the customer with a successful Move to S/4HANA. 
+SAP can also help connect you to a partner that has the industry experience you need and is approved to deliver projects related to SAP S/4HANA. You can take advantage of fixed-price offerings that enable a repeatable, tool-based deployment of SAP S/4HANA as well as remote delivery services.
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    1
+Landscape:    nan
+
+
+Question / Qus :    How does SAP optimize my TCI?
+Answer /ans:    SAP has developed different engagement types to support customers to “make their case” and launch their SAP S/4HANA plan, e.g. the SAP S/4HANA Adoption Starter: An expert-guided, self-planning experience in a virtual 1:N format; or the classic Value Discovery: An engagement type for larger customers in an onsite 1:1 format. Independent of these two types, customers can use a number of Value Discovery tools in their own timeframe to build their technical and business cases independently. Furthermore SAP provides many project execution tools that reduce TCI.
+Check out [more] (https://www.sap.com/products/s4hana-movement.case.html).
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    2
+Landscape:    nan
+
+
+Question / Qus :    Can SAP S/4HANA address my business and IT requirements?
+Answer /ans:    The journey to the customer's Intelligent Enterprise starts with the Digital Core. While this is obvious, customers need to first understand the business value of SAP S/4HANA. To run a business-focused discussion, various industry specific assets are prepared. In addition, SAP S/4HANA provides key innovations such as modern user interface, co-pilot offering a conversational UI, build in analytics and further.
+All these assets shall be used to prepare a discussion with customers on business value and ensure executive buy-in from the beginning.
+Further [details] (https://www.sap.com/products/s4hana-movement.case.html).
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    1
+Landscape:    nan
+
+
+Question / Qus :    What is 10Steps2S4?
+Answer /ans:    During the 10Steps2S4 training from Partner Management, partners are guided through the conversion process steps in 10 live sessions and work packages. In order to better understand the process steps involved to deliver a successful S/4HANA on premise conversion. Providing all the tools and best practice content to help complete the conversion on time.
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    1
+Landscape:    nan
+
+
+Question / Qus :    What is the SAP Project Coach?
+Answer /ans:    The SAP Project Coach is an initiative to provide partners with specific implementation information about converting to S/4HANA on premise. It consist of a chat bot with many pre-delivered questions and answers. Additionaly there is an option to open up to the SAP experts via requesting a Coaching Session.
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    2
+Landscape:    nan
+
+
+Question / Qus :    What are transition paths to S/4HANA?
+Answer /ans:    Two main transition paths are available:
+- Deploying a new instance of SAP S/4HANA and migrating existing data from an old ERP system. This is the best approach for customers wanting a clean start (in the cloud, on-premise, or hybrid).
+- Existing ECC 6.x system to be converted to S/4HANA, migrating the data to HANA as part of that process. Preserves the existing configuration and customization (as long as those customizations will work with S/4HANA or can be adapted to work with S/4HANA). 
+More [Information] (https://www.sap.com/documents/2019/01/f81fe685-357d-0010-87a3-c30de2ffd8ff.html).
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    3
+Landscape:    nan
+
+
+Question / Qus :    Why shall I move to S/4HANA?
+Answer /ans:    SAP will show you how companies are able to address today's challenges and tomorrow's opportunities with flexibility, speed, and insight by utilizing an intelligent ERP system powered by SAP S/4HANA. We will show you reasons from customers and our perspective. Beside these customer specific reasons we are able to provide hundreds more, and further customer stories and organizations which are moving to S/4HANA. 
+[Top reasons to Move to SAP S/4HANA] (https://move.s4reasons.com/).
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    6
+Landscape:    nan
+
+
+Question / Qus :    Do you have a guide to move to S/4HANA?
+Answer /ans:    "SAP experts have created a guide for executives, project managers, decision-makers, and senior IT leaders that summarizes our combined experience from over 5,000 SAP S/4HANA migration projects seen so far. It helps to successfully plan your migration to SAP S/4HANA. Your can access this practical, condensed, down-to-earth handbook:
+[Your Journey to SAP S/4HANA  (for IT Leadership)] (https://www.sap.com/products/s4hana-movement.html?pdf-asset=44b3ebd5-4b7d-0010-87a3-c30de2ffd8ff&page=1)."
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    4
+Landscape:    nan
+
+
+Question / Qus :    What is the MOVE program?
+Answer /ans:    The S/4HANA Movement Program has the aim to drive adoption of SAP S/4HANA in SAP’s ERP Installed Base. It is a cross-board initiative to answer our customers most critical questions. [Your journey to SAP S/4HANA ] (https://www.sap.com/products/s4hana-movement.html)
+Line of Business / Lob :    Others
+End to End Solution:    Miscellaneous
+Solution Capability / business Process:    nan
+Keywords:    nan
+Release:    nan
+version:    3
+Landscape:    nan
+
